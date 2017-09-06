@@ -11,7 +11,7 @@ It provides a basic setup which displays the CPU die temperature, Pi and Node ve
 You only need modify two main files, the piFrame.html and piFrame.js for most purposes. You may add or remove functions as you wish.This requires only a basic knowledge of html and javascript. The socket.io module provides a mechanism to both send your data from your electronics to web, and send commands from the web page. 
 Note that this project uses the npm pig-pio library - you must run piFrame as root. There is a wrapper shell which provides several functions:
   1) Killing the pig-pio C library process, if already running before you start piFrame. 
-  2) Retreiving system info such as your pi and Node version.
-  3) Run the progam 'sudo piframe.sh'
+  2) Retreiving system info such as your pi and Node version. When you upgrade the version info will change automatically.
+  3) Run the progam 'sudo ./piframe.sh'
 Feel free to change, add, or remove functions. I only suggest that you may want to save your blocks in a file for future use. And as with all software, make small changes and test before proceeding....
 
