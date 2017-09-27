@@ -1,5 +1,6 @@
 # piFrame
-piFrame Help<br>
+<i>Updated 27SEP2017 by Kevin Waite<i>
+<br>
 <p>A Node web server for Raspberry Pi electronics testing
 There are pre-built, ready to go modules which include:
 <ul>
