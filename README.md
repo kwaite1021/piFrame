@@ -18,7 +18,7 @@ Note that this project uses the npm pig-pio library - you must run piframe.js as
 The pi in isolation is not so powerful regarding electronics, however it makes a truly wonderful command & control interface for other devices. In the "MyApp" web section there is a hookup for SPI to your favorite electronic development board [or device]. We can now dispense with LCD displays, switches, buttons, etc., by sending & receiving data via your pi. In addition to data & commands, we can also send electronic triggers and signals to our boards and devices. I have seen quite a few articles for the pi regarding turning your pi into a frequency generator,but I think the best approach would be to purchase a DDS synthesizer from Analog Devices, and control this from our pi web server. Now we could obtain much higher frequencies, less jitter, and crystal precision, as well as the three main signal groups- square, triangle and sine waves. We could marry the pi to the awesome Cypress psoc controller with its myriad of peripherals [which is actually implemented in piFrame via SPI] and IS a powerful electronic toolbox. http://www.cypress.com/products/32-bit-arm-cortex-m4-psoc-6 Or the PSOC 5....
 
 <b>FILES:</b>
-1) Clone to pi to receive piFrame plus wiki plus master.zip
+1) Clone to pi to receive piFrame
 2) piWiki - a tiddlywiki of my pi notes, use as your own digital pi workbook, edit as desired.  http://tiddlywiki.com/
 3) piFrame_Master.zip - download all
 
