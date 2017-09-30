@@ -1,5 +1,5 @@
 # piFrame
-Updated Sep 30, 2017 by K. Waite
+<i>Updated Sep 30, 2017 by K. Waite</i>
 A Node server single page app for Raspberry Pi with emphasis on electronics.
 This software runs on your pi [tested on Raspberry Pi 3 but will work with others] and outputs a web page to port 3000 which you can access from any device on your local network.Yes, your phone as well.
 This software is based on Node.js plus Express & Socket.io., and has not even explored all of the functions available in the (npm) pigpio library.Many many thanks to Brian Cooke (fivdi) for his work providing us this C wrapper!
@@ -18,7 +18,7 @@ The pi in isolation is not so powerful regarding electronics, however it makes a
 
 <b>FILES:</b>
 1) Clone to pi to receive piFrame plus wiki plus master.zip
-2) piWiki - a tddlywiki of my pi notes, use as your own digital pi workbook, edit as desired.  http://tiddlywiki.com/
+2) piWiki - a tiddlywiki of my pi notes, use as your own digital pi workbook, edit as desired.  http://tiddlywiki.com/
 3) piFrame_Master.zip - download all
 
 
