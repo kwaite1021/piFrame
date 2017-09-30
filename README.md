@@ -22,6 +22,6 @@ The pi in isolation is not so powerful regarding electronics, however it makes a
 2) piWiki - a tiddlywiki of my pi notes, use as your own digital pi workbook, edit as desired.  http://tiddlywiki.com/
 3) piFrame_Master.zip - download all
 <br>
-<b>For help on installation & usage click <a href="https://kwaite1021.github.io/piFrame/>here</a></b>
+For help on installation & usage click <a href="https://kwaite1021.github.io/piFrame/>here</a>
 
 
