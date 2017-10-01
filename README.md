@@ -1,5 +1,5 @@
 # piFrame Help
-<i>Updated 01OCT2017 by Kevin Waite</i>
+<i>Updated 01OCT2017 by Kevin Waite</i><br>
 <br>
 <img src="pi-frame-1.png">
 <br>
