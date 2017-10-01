@@ -4,6 +4,7 @@
 A Node server single page app for Raspberry Pi with emphasis on electronics.
 This software runs on your pi [tested on Raspberry Pi 3 but will work with others] and outputs a web page to port 3000 which you can access from any device on your local network.Yes, your phone as well.
 This software is based on Node.js plus Express & Socket.io., and has not even explored all of the functions available in the (npm) pigpio library.Many many thanks to Brian Cooke (fivdi) for his work providing us this C wrapper!
+<img src="pi-frame-2.png">
 
 It provides a basic setup which displays the CPU die temperature, Pi and Node versions running. It also provides the following built-ins, ready to go out of the box:
   1) Turn On/ OFF a device. Simply outputs a high or low level from a GPIO pin.
