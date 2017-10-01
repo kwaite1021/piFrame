@@ -20,6 +20,7 @@ The modules will work out of the box with the pi 3 and 2, and others.Recommended
 1. Install Node / npm on your pi using nvm, if not already present. I am using the LTS version for ARM V8.  
     Please use nvm to install Node & npm onto your pi. This will ensure you have the latest & correct version.
     Documentation for nvm: <a href="https://github.com/creationix/nvm#verify-installation">creationix nvm</a>
+    <br>
     <a href="https://www.losant.com/blog/how-to-install-nodejs-on-raspberry-pi">Install Node.js using nvm</a>
 2. CLone piFrame into your pi or - unzip the piFrame into your Node directory.
 3. Run with the provided shell script:
