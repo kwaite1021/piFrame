@@ -1,7 +1,7 @@
 # piFrame Help
 <i>Updated 01OCT2017 by Kevin Waite</i>
 <br>
-<img src="pi-frame-1-800.png">
+<img src="pi-frame-1.png">
 <br>
 <p>A Node web server for Raspberry Pi electronics testing
 There are pre-built, ready to go modules which include:
@@ -24,7 +24,7 @@ The modules will work out of the box with the pi 3 and 2, and others.Recommended
     <br>
     <a href="https://www.losant.com/blog/how-to-install-nodejs-on-raspberry-pi">Install Node.js using nvm</a>
     <br>
-2. CLone piFrame into your pi or - unzip the piFrame into your Node directory.
+2. CLone piFrame into your pi or - unzip the piFrame into your Node directory.<br>
 3. Run with the provided shell script:
     Linux - run the 'piframe.sh' as './piframe.sh' from the piFrame directory on your Raspberry Pi. Open your local browser       at 'yourPi_IPaddress:3000'. The node server outputs the web page on port 3000 - remember that both the Pi and your local     PC, tablet, or phone must be on the same local address, irregardless if you are using WiFi or ethernet.
     You may find your Pi's IP address by using your modem/ router config page, or in Linux by running <a    href="https://www.raspberrypi.org/documentation/remote-access/ip-address.md"> nmap help </a>
