@@ -22,7 +22,9 @@ The pi in isolation is not so powerful regarding electronics, however it makes a
 <b>FILES:</b>
 1) Clone to pi to receive piFrame
 2) piWiki - a tiddlywiki of my pi notes, use as your own digital pi workbook, edit as desired.  http://tiddlywiki.com/
-3) piFrame_Master.zip - download all
+3) piFrame.zip - download all files excluding Node modules, rebuild these from package.json
+4) Pi-startSSH.sh - a Bash script to find the Pi's address by scanning or using the last known address, and log you in via SSH.
+5) GPIO-test - not written by me - Bash script used to test your Pi pins.
 <br>
 For help on installation & usage click <a href="https://kwaite1021.github.io/piFrame/">here</a>
 
