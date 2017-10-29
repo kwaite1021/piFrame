@@ -1,7 +1,7 @@
 # piFrame Help
 <i>Updated 03OCT2017 by Kevin Waite</i><br>
 <br>
-<img src="pi-frame-1.png">
+<img src="pi-frame-2.png">
 <br>
 <p>A Node web server for Raspberry Pi electronics testing
 There are pre-built, ready to go modules which include:
