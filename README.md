@@ -29,7 +29,7 @@ The modules will work out of the box with the pi 3 and 2, and others.Recommended
     You may find your Pi's IP address by using the shell script from the Master branch [Pi-startSSH.sh] OR your modem/           router config page, or in Linux by using these instructions <a href="https://www.raspberrypi.org/documentation/remote-access/ip-address.md"> nmap help </a>
     At this point you should see piFrame running. <br>
     <p>
-    Main files from the Master Branch<br>
+    Main files from the Master Branch:<br>
     <ul>
     <li>piframe.html -Client html</li>
     <li>package.json -list of npm packages used</li>
@@ -39,6 +39,7 @@ The modules will work out of the box with the pi 3 and 2, and others.Recommended
     <li>Pi-startSSH.sh -after cloning move to your local machine. You can use this to easily get the pi address & SSH                 in.
     </li>
     </ul>
+    Development tip: Mount your PiFrame directory on the Raspberry Pi to your local machine, then use Atom or your favorite       editor to edit / save changes.Look in the PiWiki notebook for instructions on how to do this.
     </p>
 <br>
 <h3>Help on modules</h3>
