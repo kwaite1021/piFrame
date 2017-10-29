@@ -35,8 +35,9 @@ The modules will work out of the box with the pi 3 and 2, and others.Recommended
     <li>package.json -list of npm packages used</li>
     <li>piframe.js -Server side Node script</li>
     <li>public/gpiotest -Bash script; use standalone to test your GPIO pins.(Not written by my me)</li>
-    <li>public/js/piFrameControls.js -Client side javascript</li>
-    <li>public/Pi-startSSH.sh -after cloning move to your local machine. You can use this to easily get the pi address & SSH      in.</li>
+    <li>piFrameControls.js -Client side javascript</li>
+    <li>Pi-startSSH.sh -after cloning move to your local machine. You can use this to easily get the pi address & SSH                 in.
+    </li>
     </ul>
     </p>
 <br>
