@@ -1,5 +1,5 @@
 # piFrame
-<i>Updated Sep 30, 2017 by K. Waite</i>
+<i>Updated OCT 28 2017, 2017 by K. Waite</i>
 <br>
 A Node server single page app for Raspberry Pi with emphasis on electronics.
 This software runs on your pi [tested on Raspberry Pi 3 but will work with others] and outputs a web page to port 3000 which you can access from any device on your local network.Yes, your phone as well.
