@@ -44,10 +44,9 @@ The modules will work out of the box with the pi 3 and 2, and others.Recommended
 <br>
 <h3>Help on modules</h3>
 <ul>
+<li>
   Raspberry Pie die temperature - shown in the right-most section of web banner, in degrees C. This runs in 5 second           intervals; if you wish to turn this off, do it in piFrameControls.js by commenting out this line 'Mysocket.emit('ReqTemp')'
   <br>
-<li>
-<br>
 </li>
 <li>
   GIO Level out - Simply outputs a high or low logic level to the selected pin. 
