@@ -49,7 +49,7 @@ The modules will work out of the box with the pi 3 and 2, and others.Recommended
   <br>
 </li>
 <li>
-  GIO Level out - Simply outputs a high or low logic level to the selected pin. 
+  GPIO Level out - Simply outputs a high or low logic level to the selected pin. 
   <br>
 </li>
 <li>
