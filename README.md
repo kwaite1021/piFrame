@@ -53,7 +53,7 @@ The modules will work out of the box with the pi 3 and 2, and others.Recommended
   <br>
 </li>
 <li>
-  PWM Hardware - Outputs PWM to selected pins - note that these pins are limited to the PI being used. Pin 18 is common to     all Pi's with dedicated hardware PWM. Set frequency,duty cycle and outpin pin, turn function on or off. The uppler limit on   a Raspberry Pi is around 20MHz although your results may vary. Admittedly at 20MHz the signal turns into a sawtooth, but it   would be usable with conditioning circuitry. Remember that the Pi has an exremely limited output power on all pins so ALL     inputs and outputs need to be conditioned, in any event.
+  PWM Hardware - Outputs PWM to selected pins - note that these pins are limited to the PI being used. Pin 18 is common to     all Pi's with dedicated hardware PWM. Set frequency,duty cycle and outpin pin, turn function on or off. The upper limit on   a Raspberry Pi3 is around 20MHz although your results may vary. Admittedly at 20MHz the signal turns into a sawtooth, but     it would be usable with conditioning circuitry. Remember that the Pi has an exremely limited output power on all pins so     ALL inputs and outputs need to be conditioned, in any event.
   <br>
  </li>
  <li>
