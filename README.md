@@ -3,7 +3,7 @@
 <br>
 <img src="pi-frame-2.png">
 <br>
-<p>A Node web server for Raspberry Pi electronics testing
+<p>A Node web server for Raspberry Pi electronics testing. Hack it , mod it, do as you wish with it.
 There are pre-built, ready to go modules which include:
 <ul>
   <li> Level out high or low - turn something on / off </li>
@@ -44,6 +44,11 @@ The modules will work out of the box with the pi 3 and 2, and others.Recommended
 <br>
 <h3>Help on modules</h3>
 <ul>
+  Raspberry Pie die temperature - shown in the right-most section of web banner, in degrees C. This runs in 5 second           intervals; if you wish to turn this off, do it in piFrameControls.js by commenting out this line 'Mysocket.emit('ReqTemp')'
+  <br>
+<li>
+<br>
+</li>
 <li>
   GIO Level out - Simply outputs a high or low logic level to the selected pin. 
   <br>
@@ -53,7 +58,7 @@ The modules will work out of the box with the pi 3 and 2, and others.Recommended
   <br>
 </li>
 <li>
-  PWM Hardware - Outputs PWM to selected pins - note that these pins are limited to the PI being used. Pin 18 is common to     all Pi's with dedicated hardware PWM. Set frequency,duty cycle and outpin pin, turn function on or off. The upper limit on   a Raspberry Pi3 is around 20MHz although your results may vary. Admittedly at 20MHz the signal turns into a sawtooth, but     it would be usable with conditioning circuitry. Remember that the Pi has an exremely limited output power on all pins so     ALL inputs and outputs need to be conditioned, in any event.
+  PWM Hardware - Outputs PWM to selected pins - note that these pins are limited to the PI being used. Pin 18 is common to     all Pi's with dedicated hardware PWM. Set frequency,duty cycle and outpin pin, turn function on or off. The frequency input   MAY use decimal fractions, the Duty Cycle can only accept integers [0 to 99%].The upper limit on my Raspberry Pi3 is around   20MHz although your results may vary. Admittedly at 20MHz the signal turns into a sawtooth, but it would be usable with       conditioning circuitry. I observed over-shoots on lower frequencies and deformation at high frequencies. Remember that the   Pi has an exremely limited output power on all pins so ALL inputs and outputs need to be conditioned, in any event.
   <br>
  </li>
  <li>
